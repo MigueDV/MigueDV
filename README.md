@@ -15,8 +15,8 @@
 ### 💡 Sobre mí
 
 - 🚀 **Especialidad:** Desarrollo Front-End con React.js, JavaScript (ES6+), Tailwind CSS y consumo de APIs REST.
-- 📊 **Rendimiento:** Experiencia optimizando carga web y SEO técnico, logrando reducir tiempos hasta en un **30%** en proyectos reales[cite: 3].
-- 🛠️ **Enfoque:** Código limpio (Clean Code), componentes escalables y diseño *Mobile-First*[cite: 3].
+- 📊 **Rendimiento:** Experiencia optimizando carga web y SEO técnico, logrando reducir tiempos hasta en un **30%** en proyectos reales.
+- 🛠️ **Enfoque:** Código limpio (Clean Code), componentes escalables y diseño *Mobile-First*.
 
 ---
 
@@ -79,7 +79,7 @@ Si tienes algún proyecto en mente, quieres colaborar o simplemente hablar de te
   <a href="https://www.linkedin.com/in/miguel-herreraq/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:herreraquirozmiguel@gmail.com?subject=Contacto%20desde%20GitHub" target="_blank">[cite: 3]
+  <a href="mailto:herreraquirozmiguel@gmail.com?subject=Contacto%20desde%20GitHub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
 </div>
