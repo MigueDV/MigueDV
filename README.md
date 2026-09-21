@@ -1,7 +1,3 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="225" src="https://i.imgur.com/vXecRxy.jpeg" />
-</div>
-
 ###
 
 <h1 data-importer="text" align="left">Hola! 👋 Soy Miguel Herrera</h1>
