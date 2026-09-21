@@ -79,7 +79,7 @@ Si tienes algún proyecto en mente, quieres colaborar o simplemente hablar de te
   <a href="https://www.linkedin.com/in/miguel-herreraq/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:herreraquirozmiguel@gmail.com?subject=Contacto%20desde%20GitHub" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=herreraquirozmiguel@gmail.com&su=Contacto%20desde%20GitHub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
   </a>
 </div>
