@@ -1,3 +1,7 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" width="100%" src="https://i.imgur.com/vXKNE7v.jpeg" alt="Header Banner" />
+</div>
+
 ###
 
 <h1 data-importer="text" align="left">Hola! 👋 Soy Miguel Herrera</h1>
