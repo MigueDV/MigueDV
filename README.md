@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" width="100%" src="https://i.imgur.com/vXKNE7v.jpeg" alt="Header Banner" />
+  <img data-importer="image" width="85%" src="https://i.imgur.com/vXKNE7v.jpeg" alt="Header Banner" />
 </div>
 
 ###
